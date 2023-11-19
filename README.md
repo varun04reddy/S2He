@@ -1,6 +1,3 @@
-
-# Project Name
-
 ## Description
 These are some updated scripts for the S2He dashboard which is a web-based dashboard used for the Barnes Lab at UVA Engineering's Link Lab, scripts include a web-based query tool that provides functionalities like filtering data based on participant IDs, date range, and compliance metrics. It also features dynamic UI updates for user inputs.
 
