@@ -4,6 +4,8 @@ These are some updated scripts for the S2He dashboard which is a web-based dashb
 
 ## Dependencies
 The project requires the following dependencies:
+
+
 NOTE: Ensure you have all the prerequisite dependencies required to run the original dashboard. The list of dependencies can be found on the original BarnesLab GitHub site. 
 
 - **jQuery**: A fast, small, and feature-rich JavaScript library.
